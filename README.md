@@ -1,6 +1,7 @@
 # BuildOwn Single HippoCell
 ## Description
-Build your own single hippocampal cell model using HBP data.
+Build your own single hippocampal cell model using HBP data
+
 Use the BluePyOpt to run an optimization choosing from HBP data for morphology, channel kinetics, features, and parameters.
 
 ## Contributors 
